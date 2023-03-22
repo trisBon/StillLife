@@ -1,0 +1,38 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Wk6Milestone.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Sphere.cpp
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(231,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(231,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(321,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(321,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(515,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\hyper\Desktop\StillLifeProject\Sphere.cpp(517,25): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  StillLife.cpp
+C:\Users\hyper\Desktop\StillLifeProject\learnOpengl\camera.h(128,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(271,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(396,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(397,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(401,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(402,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(404,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(405,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(415,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(799,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(803,30): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(808,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(809,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(879,102): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(884,104): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(891,101): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(896,97): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hyper\Desktop\StillLifeProject\StillLife.cpp(899,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Wk5Milestone.vcxproj -> C:\Users\hyper\Desktop\StillLifeProject\Debug\StillLife.exe
